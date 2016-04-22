@@ -6,6 +6,7 @@
         'thinkster.config',
         'thinkster.routes',
         'thinkster.authentication',
+        'thinkster.posts',
         'thinkster.layout'
       ]);
 
